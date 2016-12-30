@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha2_e1b5a85788c648f6531b7b910658ddc9317ee84f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha2_cc2861fe240a95ef327e8ce0e0e11fa5c2dae9f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_5019902cd69b378d63a9a24214c6455c4db281b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha2_f19185aed22cec6d252c712071a168fed826414f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_24932c6cc75b9ad9d51b3234522af057b94c5626.jar" />
+    </item>
+    <item
+        jar="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_3e923ff898bb9995a65f9bdfc380ad232facb917.jar" />
+    </item>
+    <item
+        jar="C:\Users\pawel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_e1e3188a7b63519b405689733d57ed8d4d202251.jar" />
+    </item>
+    <item
+        jar="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha2_ddccb7b4f16b2459b4641179cf8366eb80a9ec14.jar" />
+    </item>
+
+</items>

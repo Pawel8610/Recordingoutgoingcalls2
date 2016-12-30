@@ -1,0 +1,2 @@
+CHANGED,C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\pawel\AndroidStudioProjects\Recordingoutgoingcalls2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\pawel\recordingoutgoingcalls2\MainActivity$override.class
